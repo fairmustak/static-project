@@ -1,0 +1,11 @@
+.my-section {
+    background-color: red;
+    color: white;
+}
+
+.new-section{
+ background: url("Image-9/f2.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100% ;
+    background-attachment: fixed;
+}
